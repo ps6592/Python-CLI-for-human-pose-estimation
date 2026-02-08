@@ -1,6 +1,5 @@
 # Pose Estimation Pipeline
 
-#PUSHING TO 500 MS AT END
 
 Single-person pose estimation tool that processes iPhone-style video and outputs an annotated video with skeleton overlay plus a JSON file containing 17 COCO-style body keypoints per frame.
 
